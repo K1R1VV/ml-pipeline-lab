@@ -17,7 +17,7 @@ ENV/
 
 # Data Science
 *.ipynb_checkpoints
-*.dvc
+!.dvc
 .dvc/cache
 !data/.gitkeep
 
