@@ -3,7 +3,7 @@ def hello():
 
 
 def process_data(data: dict) -> int:
-    return data["value"] * data["multiplier"]
+    return round(data["value"] * data["multiplier"], 3)
 
 
 if __name__ == "__main__":
