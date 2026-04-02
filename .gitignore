@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data Science
+*.ipynb_checkpoints
+*.dvc
+.dvc/cache
+!data/.gitkeep
+
+# Secrets
+.env
