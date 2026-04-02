@@ -1,3 +1,5 @@
+[![CI Pipeline](https://github.com/K1R1VV/ml-pipeline-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/K1R1VV/ml-pipeline-lab/actions/workflows/ci.yml)
+
 # Лабораторная работа №3
 
 ## Установка виртуального окружения
